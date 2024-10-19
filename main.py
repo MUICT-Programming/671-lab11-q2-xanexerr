@@ -14,4 +14,4 @@ updated_list = summation(lst1, lst2)
 print(updated_list)
 
 
-print(min_max = find_min_max(updated_list))
+print(find_min_max(updated_list))
