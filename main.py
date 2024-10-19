@@ -7,11 +7,11 @@ def find_min_max(lst):
 
 
 n = int(input())
-lst1 = [int(input()) for _ in range(n)]
-lst2 = [int(input()) for _ in range(n)]
+lst1 = [int(input()) for underscore in range(n)]
+lst2 = [int(input()) for underscore in range(n)]
 
 updated_list = summation(lst1, lst2)
 print(updated_list)
 
-min_max = find_min_max(updated_list)
-print(min_max)
+
+print(min_max = find_min_max(updated_list))
